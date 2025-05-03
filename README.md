@@ -2,15 +2,13 @@
 
 A comprehensive admin dashboard for managing and monitoring Blinkit operations. This project includes interfaces for viewing orders, tracking delivery status, managing inventory, and analyzing performance metrics in real-time.
 
-## 🚀 Features
-
-- 📦 Live Order Tracking
-- 🛍️ Product & Inventory Management
-- 👤 User & Delivery Partner Profiles
-- 📊 Real-time Analytics & Charts
-- 🔔 Notifications & Alerts
-- 🧾 Sales & Revenue Reports
-- 🔐 Role-based Authentication
+## 
+🔍 Key Highlights:
+📦 Total Sales: $1.20M across 8,523 items
+⭐ Average Rating: 3.9
+🍽️ Analysis by Item Type, Fat Content, and Outlet Location Type
+📍 Tier-wise and year-wise outlet sales distribution
+📈 Visual insights into sales, ratings, and outlet performance
 
 ## 🖼️ Screenshots
 
